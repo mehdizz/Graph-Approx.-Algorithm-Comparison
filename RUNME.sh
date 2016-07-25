@@ -1,1 +1,1 @@
-git clone https://mehdizz@bitbucket.org/mehdizz/graph-approx.-algorithm-comparison.git
+git clone https://milaniez@bitbucket.org/milaniez/graph-approx.-algorithm-comparison.git
